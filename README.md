@@ -39,3 +39,19 @@ Follow these steps to set up the project on your local machine:
     ```bash
     .venv\Scripts\activate
 
+    For macOS/Linux:
+    ```bash
+    source .venv/bin/activate
+
+5. **Install dependencies**:
+
+    ```bash
+    pip install -r requirements.txt
+
+6. **Run the development server**:
+    
+    ```bash
+    python manage.py runserver
+
+**The application should now be running at http://127.0.0.1:8000/.**
+
