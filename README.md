@@ -78,7 +78,7 @@ Follow these steps to set up the project on your local machine:
 ## 🎮 Usage
 
 1. **Teacher Login: Log in to create exam rooms.**
-2. **Create Exam Room: Provide a Google Form link to generate a unique exam room for students at Dashbord.**
+2. **Create Exam Room: Provide a Google Form link to generate a unique exam room for students.**
 3. **Student Join: Students can join the exam by entering their details, exam code and starting the test.**
 4. **Real-Time Monitoring: The system will monitor student activity, including face detection, suspicious behavior, and tab-switching.**
 5. **Activity Logs: Teachers can view detailed logs of student activities created during exam**
