@@ -22,36 +22,40 @@ Before you begin, make sure you have the following installed:
 Follow these steps to set up the project on your local machine:
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/AdityaJadhav24/ProctorAI.git
+    ```bash
+    git clone https://github.com/AdityaJadhav24/ProctorAI.git
+    ```
 
-2. **Navigate to the project directory:**:
+2. **Navigate to the project directory**:
     ```bash
     cd ProctorAI
+    ```
 
 3. **Set up a virtual environment (optional but recommended)**:
     ```bash
     python -m venv .venv
+    ```
 
-4. **Activate the virtual environment:**:
+4. **Activate the virtual environment**:
 
     **For Windows**:
-        ```bash
-        .venv\Scripts\activate
+    ```bash
+    .venv\Scripts\activate
+    ```
 
     **For macOS/Linux**:
-        ```bash
-        source .venv/bin/activate
+    ```bash
+    source .venv/bin/activate
+    ```
 
 5. **Install dependencies**:
-
     ```bash
     pip install -r requirements.txt
+    ```
 
 6. **Run the development server**:
-    
     ```bash
     python manage.py runserver
+    ```
 
-**The application should now be running at http://127.0.0.1:8000/.**
-
+**The application should now be running at [http://127.0.0.1:8000/](http://127.0.0.1:8000/).**
