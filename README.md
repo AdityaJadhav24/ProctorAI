@@ -35,11 +35,11 @@ Follow these steps to set up the project on your local machine:
 
 4. **Activate the virtual environment:**:
 
-    For Windows:
+    **For Windows**:
         ```bash
         .venv\Scripts\activate
 
-    For macOS/Linux:
+    **For macOS/Linux**:
         ```bash
         source .venv/bin/activate
 
