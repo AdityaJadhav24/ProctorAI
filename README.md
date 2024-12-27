@@ -95,3 +95,9 @@ Follow these steps to set up the project on your local machine:
 - Create MCQ Exam Feature
 
 **If you’d like to contribute to any of these areas, feel free to fork the repository and submit a pull request.**
+
+## 📞 Contact
+Feel free to reach out to me via LinkedIn.[LinkedIn](https://www.linkedin.com/in/adityajadhav24/)
+
+## 🔖 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
